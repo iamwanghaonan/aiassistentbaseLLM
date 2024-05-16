@@ -1,0 +1,2 @@
+# esp32linkzhipubyschoolWifi
+esp32通过校园网连接清华智普
